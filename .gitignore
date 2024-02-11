@@ -1,0 +1,11 @@
+.cache
+tempTest
+node_modules
+yarn-error.log
+.yarn
+.yarnrc
+.nyc_output
+coverage
+.idea
+.vscode
+.dist
