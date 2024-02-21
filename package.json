@@ -33,5 +33,26 @@
     "ts-jest": "^29.1.2",
     "tslib": "^2.6.2",
     "typescript": "^5.3.3"
-  }
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "wait",
+    "timeout",
+    "retKlay",
+    "node",
+    "nodejs",
+    "error",
+    "promise",
+    "async",
+    "await",
+    "asyncawait",
+    "trycatch",
+    "react",
+    "reactjs",
+    "angular",
+    "vue",
+    "svelte",
+    "deno"
+  ]
 }
